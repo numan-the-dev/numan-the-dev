@@ -15,14 +15,14 @@
 - 🔄 Specialize in upgrading RN projects, app testing automation & clean UI
 - 🎯 Looking to build mobile apps & scale products
 - 🌱 Currently exploring freelance & e-commerce tools
-- 📍 Based in Pakistan
+- 🧑‍💻 AI Enthusiast
 
 ---
 
 ### 🧠 Tech Stack
 
 ```bash
-💻 Languages: JavaScript, TypeScript , Redux, 
+💻 Languages: JavaScript, TypeScript, Redux, 
 📱 Mobile: React Native (CLI/Expo), Reanimated, Vision Camera  
 🧪 Testing: Detox, Jest, Maestro  
 ☁️ Backend: Firebase, Supabase, Zendesk, Onesignal, Smartlook
