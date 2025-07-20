@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Numan Munir</h1>
-<h3 align="center">React Native Developer | Mobile App Specialist | Tech Enthusiast</h3>
+<h3 align="center">React Native Developer | Mobile App Specialist | AI Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:numanmunirdev@gmail.com"><img src="https://img.shields.io/badge/Email-blue?style=flat&logo=gmail&logoColor=white" /></a>
@@ -13,9 +13,10 @@
 - 🧑‍💻 React Native Developer (3+ years)
 - 🛠️ Expertise: `Auth0`, `Social Logins`, `Detox`, `Maestro`, `Vision Camera`, `Dynamsoft`, `Reanimated`
 - 🔄 Specialize in upgrading RN projects, app testing automation & clean UI
+- 📈 I help companies **5× their growth** by delivering high-quality, scalable mobile apps
 - 🎯 Looking to build mobile apps & scale products
 - 🌱 Currently exploring freelance & e-commerce tools
-- 🧑‍💻 AI Enthusiast
+- 🤖 AI Enthusiast
 
 ---
 
